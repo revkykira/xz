@@ -10,52 +10,52 @@ global.doc5 = 'application/pdf'
 
 //edit aja sesuka hati
 global.welcome = `
-selamat datang gesss
+ada yang dateng
 `
 global.left = ` 
-bye smoga tenang di sana
+keluar ga usah join lagi bgsd
 `
 global.doc6 = 'application/vnd.android.package-archive'
 //==============================\
 autoread = true //jangan di ubah
 global.footer = 'Lenttobd'//ganti
-global.pulsa = "628xxxxx"//ganti
-global.gopay = "628xxx"//ganti
-global.dana = "628xxx"//ganti
-global.paypal = "---" // biarin aja kalau gaada
-global.shopay = "---" // biarin aja kalau gaada
-global.saweria = "---" // biarin aja kalau gaada
-global.sociabus = "---" // biarin aja kalau gaada
-global.bni = "---" // biarin aja kalau gaada
-global.bri = "---" // biarin aja kalau gaada
-global.bankjatim = "---" // biarin aja kalau gaada
-global.jago = "---" // biarin aja kalau gaada
-global.neobank = "---" // biarin aja kalau gaada
-global.packname = 'Lenttobs'//ganti
-global.footer = '©Maslent'//ganti
-global.ovo = "628xxx"//ganti
-global.ownerlen = "Maslent/Lenttobs"//Ubah
-global.owner = ['628123456678'] //ubh nomor owner hp
-global.ownername = "Lenttobs" //ubah
-global.ytname = "YT: lenttobs"//ubah
-global.socialm = "IG: vlntncptr"//ubah
+global.pulsa = "6285966393571"//ganti
+global.gopay = "6285966393571"//ganti
+global.dana = "6285966393571"//ganti
+global.paypal = "--" // biarin aja kalau gaada
+global.shopay = "--" // biarin aja kalau gaada
+global.saweria = "--" // biarin aja kalau gaada
+global.sociabus = "--" // biarin aja kalau gaada
+global.bni = "--" // biarin aja kalau gaada
+global.bri = "--" // biarin aja kalau gaada
+global.bankjatim = "--" // biarin aja kalau gaada
+global.jago = "--" // biarin aja kalau gaada
+global.neobank = "--" // biarin aja kalau gaada
+global.packname = 'WhatsAppbot'//ganti
+global.footer = '©Bot'//ganti
+global.ovo = "6285966393571"//ganti
+global.ownerlen = "Chat/Me"//Ubah
+global.owner = ['6285966393571'] //ubh nomor owner hp
+global.ownername = "Chat" //ubah
+global.ytname = "YT: Revky"//ubah
+global.socialm = "IG: revkyrey"//ubah
 global.location = "Indonesia, Jawatimur, Lumajang"//ubah
-global.ownernomer = "628123456678"//ubah nomorhp owner
-global.premium = ['628123456678']//ubah nomor hp premium
-global.nomorcs = '628123456678'//nomormu
-global.botname = 'Bot V20' //ubah
-global.linkz = "Link Gc"//ubah
-global.websitex = "yt mu"//ubah
-global.botscript = '-'
-global.themeemoji = "😿"//ubah
-global.packname = "Sticker By"//ubah
-global.author = "Made by"//ubah
-global.wm = "Lenttobs"//ubah
+global.ownernomer = "6285966393571"//ubah nomorhp owner
+global.premium = ['6285966393571']//ubah nomor hp premium
+global.nomorcs = '6285966393571'//nomormu
+global.botname = 'WhatsAppbot' //ubah
+global.linkz = "Nothing"//ubah
+global.websitex = "Revky"//ubah
+global.botscript = '--'
+global.themeemoji = "!"//ubah
+global.packname = "Created By"//ubah
+global.author = "Made By"//ubah
+global.wm = "Chat"//ubah
 global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
-    success: 'Piye?!', //ubah...
+    success: 'apa!', //ubah...
     admin: 'This feature could be used by admins only!',
     botAdmin: 'Bot Must Be Admin First!',
     premime: 'Premium Special Features If You Want to Register Type Rent',
@@ -80,13 +80,9 @@ global.thumb = fs.readFileSync("./Maslent/pplent/maslent.jpg")
 //SETTING AJA SUKA SUKA ASAL PERHATIIN TANDA PETIK MAUPUN KURUNG
 //Jagan lupa menunya di tambhin ya Soalnya saya capek wkkw
 global.allmenu = `
-•―――― ⌜ CONTOH 1⌟ ――――•
-bla bla
-bla bla
-•―――― ⌜ CONTOH 1⌟ ――――•
-bla bla
-bla bla
-•―――― ⌜ CONTOH 1⌟ ――――•
+terimakasih telah
+menggunakan bot
+ini :)
 
 //dan text yang di awali // jangan di hapus sebagai penanda saja
 //ada petik di bawah text ini jangan di hapus kalau mau nambah list langsung tambah aja jangan hapus text ini dan petik di bawa ini
