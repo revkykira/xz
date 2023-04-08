@@ -49,24 +49,24 @@ global.websitex = "Revky"//ubah
 global.botscript = '--'
 global.themeemoji = "!"//ubah
 global.packname = "Created By"//ubah
-global.author = "Made By"//ubah
+global.author = "Who?"//ubah
 global.wm = "Chat"//ubah
 global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
-    success: 'apa!', //ubah...
-    admin: 'This feature could be used by admins only!',
-    botAdmin: 'Bot Must Be Admin First!',
-    premime: 'Premium Special Features If You Want to Register Type Rent',
-    owner: 'This feature could be used by owner only', 
-    group: 'Features Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This feature could be used by bot only',
-    wait: 'In process...',
-    linkm: 'Where is the link?',
-    endLimit: 'Upss Limit Kamu sudah habis..Tunggu Waktu menunjukan Pukul 12:00 Limit Anda otomatis akan Di reset!!!',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    success: 'ペドペドゥー..', //ubah...
+    admin: '管理者のみ。',
+    botAdmin: '非管理ボット。',
+    premime: 'プレミアム機能。',
+    owner: '所有者のみ', 
+    group: 'グループでのみ利用可能',
+    private: 'プライベートチャット。 ワンタイムコンタクト',
+    bot: 'ボットにアクセス...',
+    wait: '我慢お姉ちゃん ><',
+    linkm: 'リンクはどこですか？',
+    endLimit: 'Upss 制限がなくなりました.12:00 が表示されるまでお待ちください 制限は自動的にリセットされます!!!',
+    nsfw: 'nsfw 機能がアクティブ化されていません。管理者に連絡してアクティブ化してください',
 }
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
